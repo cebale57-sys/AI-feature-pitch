@@ -1,0 +1,1 @@
+As a student, I want AI to explain my calculator results step-by-step, so that I can understand how the answer was computed and avoid mistakes.
